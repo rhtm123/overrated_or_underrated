@@ -11,9 +11,11 @@ selected = []
 
 words = ['Love', 'Saying I love you','Work Culture','Girl Friend','Politics','Political Ideology',
 'Gali', 'Pani Puri', 'Passion', 'IIT', 'Purpose of Life', 'Marriage', 'Relationship',
-'Physical Health', 'Mental Health', 'History', 'Friends', 'Money', 'Books',
+'Physical Health', 'Mental Health', 'History', 'Friends', 'Money', 'Reading Books',
 'Social Media', 'Happiness', 'Family', 'Your interest in what you do', 'Degrees',
-'Crypto', 'Artificial Intelligence', 
+'Crypto', 'Artificial Intelligence', 'Arijit Singh', 'Narendra Modi', 'Mahatma Gandhi',
+'Watching/Reading News',
+
 
 ]
 
